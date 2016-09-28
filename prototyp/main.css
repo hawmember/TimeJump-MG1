@@ -1,0 +1,36 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	width: 1000vh;
+	height: 100vh;
+	position: relative;
+	z-index: 1;
+	background-image: url(background.jpg); 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+.figur {
+	position: fixed;
+	left: 50%;
+	margin-left: -51px;
+    width: 102px;
+    height: 130px;
+    top: 81vh;
+	background-image: url(mario.png);
+	  -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover; 
+	z-index: 3;
+}
+
+
+.sichtbar {
+	background-color: blue !important;
+}
