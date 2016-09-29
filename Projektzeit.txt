@@ -8,8 +8,10 @@ Research: Spielhistorie	   1,0h
 Sean:
 Ideenfindung: 0,5h
 Research Spielhistorie/Inspirationsquellen : 1,0h
-
+Unity Einarbeitung: 2.0h
 
 
 
 Kevin:
+HTML Prototyp erstellung: 0,3h
+Research Grafiken/Möglichkeiten: 1,0h
