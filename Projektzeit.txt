@@ -15,3 +15,4 @@ Unity Einarbeitung: 2.0h
 Kevin:
 HTML Prototyp erstellung: 0,3h
 Research Grafiken/Möglichkeiten: 1,0h
+Pong Welt erstellt: 0,3h
