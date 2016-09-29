@@ -1,5 +1,5 @@
 ===To Do's===
 
-1. Research bzgl. der Möglichkeit zur Pfadwahl in HTML.
+1. Einarbeitung in Unity.
 
-2. Wenn (1) nicht möglich dann: Einarbeitung in Unity.
+2. Möglichkeit zur Einbettung in den Browser
