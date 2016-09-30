@@ -3,7 +3,7 @@
 Sven:
 Ideenfindung + Inspiration: 0,5h
 Research- Spielhistorie:    1,0h
-Unity Einarbeitung:
+Unity Einarbeitung:	    0,5h
 
 
 Sean:
