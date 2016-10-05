@@ -15,6 +15,7 @@ Unity Einarbeitung: 7.5h
 
 Kevin:
 HTML Prototyp erstellung: 0,3h
-Research Grafiken/Möglichkeiten: 1,0h
+Research Grafiken/MÃ¶glichkeiten: 1,0h
 Pong Welt erstellt: 0,4h
-Mini PrŠsentation: 0,4h
+Mini PrÅ sentation: 0,4h
+Unity Einarbeitung: 2h
