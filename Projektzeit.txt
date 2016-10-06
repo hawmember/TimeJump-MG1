@@ -1,4 +1,4 @@
-===Projektarbeitszeit===
+﻿===Projektarbeitszeit===
 
 Sven:
 Ideenfindung + Inspiration: 0,5h
@@ -9,7 +9,8 @@ Unity Einarbeitung:	    0,5h
 Sean:
 Ideenfindung: 0,5h
 Research Spielhistorie/Inspirationsquellen : 1,0h
-Unity Einarbeitung: 7.5h
+Unity Einarbeitung: 4.5h
+Spielwelt entwickelt 5.0
 
 
 
