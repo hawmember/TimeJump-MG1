@@ -1,4 +1,4 @@
-﻿===Projektarbeitszeit===
+===Projektarbeitszeit===
 
 Sven:
 Ideenfindung + Inspiration: 0,5h
@@ -17,7 +17,8 @@ Spielwelt entwickelt 7.5
 Kevin:
 HTML Prototyp erstellung: 0,3h
 Research Grafiken/Möglichkeiten: 1,0h
-Pong Welt erstellt: 0,4h
+Pong Welt erstellt: 1h
 Mini Präsentation: 0,4h
 Unity Einarbeitung: 2h
 Charakter Illustriert 2,5h
+Charakter Animation: 1h
