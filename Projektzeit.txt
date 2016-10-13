@@ -4,6 +4,7 @@ Sven:
 Ideenfindung + Inspiration: 0,5h
 Research- Spielhistorie:    1,0h
 Unity Einarbeitung:	    0,5h
+Mini Präsentation: 4.5h
 
 
 Sean:
@@ -11,7 +12,7 @@ Ideenfindung: 0,5h
 Research Spielhistorie/Inspirationsquellen : 1,0h
 Unity Einarbeitung: 5.0h
 Spielwelt entwickelt 8.5h
-Mini Präsentation: 1.0h
+Mini Präsentation: 4.5h
 
 
 
@@ -19,7 +20,7 @@ Kevin:
 HTML Prototyp erstellung: 0,3h
 Research Grafiken/Möglichkeiten: 1,0h
 Pong Welt erstellt: 1h
-Mini Präsentation: 1,7h
+Mini Präsentation: 5,7h
 Unity Einarbeitung: 2h
 Charakter Illustriert 2,5h
 Charakter Animation: 1h
