@@ -1,4 +1,4 @@
-===Projektarbeitszeit===
+﻿===Projektarbeitszeit===
 
 Sven:
 Ideenfindung + Inspiration: 0,5h
@@ -12,6 +12,7 @@ Ideenfindung: 0,5h
 Research Spielhistorie/Inspirationsquellen : 1,0h
 Unity Einarbeitung: 5.0h
 Spielwelt entwickelt 8.5h
+Hauptmenü erstellt: 0.5h 
 Mini Präsentation: 4.5h
 
 
