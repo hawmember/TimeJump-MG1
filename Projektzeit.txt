@@ -25,4 +25,5 @@ Mini Präsentation: 5,7h
 Unity Einarbeitung: 2h
 Charakter Illustriert 2,5h
 Charakter Animation: 1h
+Charakter Controller: 2h
 Pong Animation: 2h
