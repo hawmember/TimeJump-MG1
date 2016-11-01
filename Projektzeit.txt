@@ -5,6 +5,7 @@ Ideenfindung + Inspiration: 0,5h
 Research- Spielhistorie:    1,0h
 Unity Einarbeitung:	    0,5h
 Mini Präsentation: 4.5h
+Besprechung: 1h
 
 
 Sean:
@@ -15,6 +16,7 @@ Spielwelt entwickelt (Pong): 10.5h
 Hauptmenü erstellt: 0.5h 
 Mini Präsentation: 4.5h
 Spielwelt entwickelt (Tetris): 9.5h
+Besprechung: 1h
 
 
 
@@ -30,3 +32,4 @@ Charakter Animation: 1h
 Charakter Controller: 2,5h
 Pong Animation: 2h
 Logo: 2h
+Besprechung: 1h
