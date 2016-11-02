@@ -1,4 +1,4 @@
-===Projektarbeitszeit===
+﻿===Projektarbeitszeit===
 
 Sven:
 Ideenfindung + Inspiration: 0,5h
@@ -11,11 +11,11 @@ Besprechung: 1h
 Sean:
 Ideenfindung: 0,5h
 Research Spielhistorie/Inspirationsquellen : 1.0h
-Unity Einarbeitung: 6.0h
+Unity Einarbeitung: 6.5h
 Spielwelt entwickelt (Pong): 10.5h
 Hauptmenü erstellt: 0.5h 
 Mini Präsentation: 4.5h
-Spielwelt entwickelt (Tetris): 9.5h
+Spielwelt entwickelt (Tetris): 10.5h
 Besprechung: 1h
 
 
