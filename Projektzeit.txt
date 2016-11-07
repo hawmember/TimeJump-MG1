@@ -1,4 +1,4 @@
-﻿===Projektarbeitszeit===
+===Projektarbeitszeit===
 
 Sven:
 Ideenfindung + Inspiration: 0,5h
@@ -25,7 +25,7 @@ HTML Prototyp erstellung: 0,5h
 Research Grafiken/Möglichkeiten: 1,0h
 Pong Welt erstellt: 1h
 Tetris Welt erstellt: 4h
-Tetris Buchstaben: 3h
+Tetris Buchstaben: 4h
 Mini Präsentation: 6,5h
 Unity Einarbeitung: 3h
 Charakter Illustriert 2,5h
