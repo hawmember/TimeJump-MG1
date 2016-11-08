@@ -34,3 +34,4 @@ Charakter Controller: 2,5h
 Pong Animation: 2h
 Logo: 2h
 Besprechung: 1h
+Pacman Welt erstellt: 1,5h
