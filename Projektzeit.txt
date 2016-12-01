@@ -1,4 +1,4 @@
-﻿===Projektarbeitszeit===
+===Projektarbeitszeit===
 
 Sven:
 Ideenfindung + Inspiration: 0,5h
@@ -15,9 +15,10 @@ Unity Einarbeitung: 6.5h
 Spielwelt entwickelt (Pong): 10.5h
 Hauptmenü erstellt: 0.5h 
 Mini Präsentation: 4.5h
-Spielwelt entwickelt (Tetris): 17.0h
+Spielwelt entwickelt (Tetris): 18.0h
 Spielwelt entwickelt (PacMan): 7.0h
 Besprechung: 2h
+Präsentation: 2h
 
 
 
@@ -36,3 +37,4 @@ Pong Animation: 2h
 Logo: 2h
 Besprechung: 2h
 Pacman Welt erstellt: 3h
+Präsentation: 3h
