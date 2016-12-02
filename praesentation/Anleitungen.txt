@@ -1,0 +1,85 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: praesentation.indd
+
+PACKDATUM: 01.12.16 12:59
+Erstellungsdatum 01.12.16
+Änderungsdatum: 01.12.16
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: Kevin Brandao da Graca
+Adresse: 
+Sonnenland 40
+22115
+
+
+
+Telefon: 04028054402
+Fax: 
+E-Mail: k.brandao-graca@gmx.de
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:Auf Seite1, 4, 5, 6
+
+SCHRIFTARTEN
+3 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: Avenir-Black; Typ: TrueType, Status: OK
+- Name: Avenir-Medium; Typ: TrueType, Status: OK
+- Name: Avenir-MediumOblique; Typ: TrueType, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 10 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 10 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: Geräteunabhängig, (PostScript®-Datei)
+Druckausgabe: Prepress-Datei
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 px, 0 px, 0 px, 0 px
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Alle
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: 1280 x 800
+Papierabmessungen: 0 px x 0 px
+Format: Querformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. praesentation.indd; Typ: Adobe InDesign-Satzdatei; Größe: 3344K
+2. Avenir.ttc; Typ: Schriftartendatei; Größe: 1555K
