@@ -1,4 +1,4 @@
-﻿===Projektarbeitszeit===
+===Projektarbeitszeit===
 
 Sven:
 Ideenfindung + Inspiration: 0,5h
@@ -36,5 +36,5 @@ Charakter Controller: 2,5h
 Pong Animation: 2h
 Logo: 2h
 Besprechung: 2h
-Pacman Welt erstellt: 3h
-Präsentation: 3h
+Pacman Welt erstellt: 4h
+Präsentation: 5h
