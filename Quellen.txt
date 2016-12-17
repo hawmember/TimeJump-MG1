@@ -1,0 +1,25 @@
+Quellen Sean 
+
+Unity Tutorial Videos
+
+- https://www.youtube.com/watch?v=vcFtoiWZ86w&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=1
+- https://www.youtube.com/watch?v=vL7CIvWxq4w&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=2&t=117s
+- https://www.youtube.com/watch?v=ndYd4S7UkAU&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=3
+- https://www.youtube.com/watch?v=P-Ywfxg1_M4&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=5
+- https://www.youtube.com/watch?v=J4dkxdbe8FI&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=6
+- https://www.youtube.com/watch?v=t2xajxxw7Kw&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=7&t=1s
+- https://www.youtube.com/watch?v=Tj36R0wOgzg&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=8&t=152s 
+- https://www.youtube.com/watch?v=CdkJoJd4SYg&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=10&t=616s
+- https://www.youtube.com/watch?v=iuV8Uxg_4Pw&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=11 
+- https://www.youtube.com/watch?v=_ULjnRMxY0c 
+- https://www.youtube.com/watch?v=ndYd4S7UkAU
+- https://www.youtube.com/watch?v=IDD2y84Laf4&list=PLqpjGfEC5vb8_bXmNhS0Xt-GeM_fwRRAR&index=9
+- https://www.youtube.com/watch?v=V-Qo_gGUWJA
+
+- https://www.freesound.org/
+
+- https://forum.unity3d.com/threads/unity-5-jump-script-issue.307715/
+- http://answers.unity3d.com/questions/385866/i-need-a-script-that-will-kill-my-player-once-he-c.html
+- https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnTriggerEnter2D.html
+- https://docs.unity3d.com/ScriptReference/Collider2D.html
+- https://docs.unity3d.com/Manual/ScriptingSection.html
