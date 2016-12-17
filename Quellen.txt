@@ -23,3 +23,44 @@ Unity Tutorial Videos
 - https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnTriggerEnter2D.html
 - https://docs.unity3d.com/ScriptReference/Collider2D.html
 - https://docs.unity3d.com/Manual/ScriptingSection.html
+
+
+
+
+
+
+Quellen Kevin:
+
+PONG WELT:
+https://de.wikipedia.org/wiki/Pong <— Alle Informationen
+
+TERTIS WELT:
+https://de.wikipedia.org/wiki/Tetris <— Alle Informationen
+https://de.wikipedia.org/wiki/Tetris#/media/File:Tetrisgb.jpg <— Inspiration: Gestaltung der Frage und Blöcke
+http://luc.devroye.org/fonts-64242.html <— Inspiration: Gestaltung der Buchstaben
+
+PACMAN WELT:
+https://de.wikipedia.org/wiki/Pac-Man <— Alle Informationen
+http://www.pctechauthority.com/flash-game-stills/pacman-game.png <— Inspiration Gestaltung der Welt
+https://de.wikipedia.org/wiki/Pac-Man#/media/File:Pac_man_logo.svg <— Pacman Logo gestaltung
+http://www.dafont.com/de/pacfont.font <— Pacman Schrift Art für das Logo
+http://www.flaticon.com/free-icon/pacman_24547#term=pacman&page=1&position=26 <— Großer Pacman
+http://www.flaticon.com/free-icon/game-ghost_81280#term=pacman ghost&page=1&position=10 <— Pacman Geist
+http://www.fontspace.com/triforce89/pipe-dream <— verwendete Font bei Pacman
+http://www.flaticon.com/free-icon/entrance_252387#term=door&page=2&position=47 <— die Tür am Ende
+
+CHARAKTER:
+http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/1/ <— Inspiration der Figur
+https://www.youtube.com/playlist?list=PLoFAh-iWxtU4ESFh3YnMvQVXlEiRdTEBP <— Unity Tutorial 
+
+LOGO:
+http://www.fontpalace.com/font-download/Aachen+Regular/ <— Font des Logos (TIME JUMP)
+http://www.1001fonts.com/aileron-font.html <— Font des Nebensatzes (HISTOTY OF GAMES)
+https://logopond.com/gallery/detail/193727 <— Logo Inspiration
+http://s3.gomedia.us/wp-content/uploads/2014/02/09-logo1.jpg <— Logo inspiration
+
+
+
+
+
+
